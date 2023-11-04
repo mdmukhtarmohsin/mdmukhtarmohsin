@@ -21,7 +21,7 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-masai&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-masai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmukhtarmohsin&label=Profile%20views&color=0e75b6&style=flat" alt="mdmukhtarmohsin" /> </p>
 
 - 🌍 I'm based in **Varanasi**
 
@@ -101,13 +101,13 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
 </table>
 <h3 align="center">GitHub Analytics: </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmukhtarmohsin&count_private=true&theme=algolia" alt="Shubham's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmukhtarmohsin&count_private=true&theme=algolia" alt="Mukhtar's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmukhtarmohsin&langs_count=8&theme=algolia" alt="Shubham's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmukhtarmohsin&langs_count=8&theme=algolia" alt="Mukhtar's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmukhtarmohsin" alt="Shubham's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmukhtarmohsin" alt="Mukhtar's GitHub stats" />
 
 </div>
 
