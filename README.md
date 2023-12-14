@@ -54,8 +54,8 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
       </td>
       <td>
-        <p>Github</p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="cypress" width="80" height="80"/>
+        <p>Git</p>
+        <img src="https://icons8.com/icon/MokHDDvdQ1UK/git" alt="cypress" width="80" height="80"/>
       </td>
       <td>
         <p>HTML5</p>
