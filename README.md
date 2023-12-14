@@ -46,8 +46,8 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
   <tbody>
     <tr>
       <td>
-        <p>Tailwind</p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="80" height="80"/>
+        <p>Tailwind CSS</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="80" height="80"/>
       </td>
       <td>
         <p>CSS3</p>
@@ -93,7 +93,10 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
         <p>TypeScript</p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
       </td>
-      <td></td>
+      <td>
+        <p>NPM</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="80" height="80"/>
+      </td>
     </tr>
   </tbody>
 </table>
