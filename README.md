@@ -23,17 +23,15 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmukhtarmohsin&label=Profile%20views&color=0e75b6&style=flat" alt="mdmukhtarmohsin" /> </p>
 
-- 🌍 I'm based in **Varanasi**
+- 🌍 I'm based in **Mughalsarai**
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Express & DSA**
 
 - 📫 How to reach me **mdmukhtarmohsin@gmail.com**
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://mdmukhtarmohsin.github.io/)
-    
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br/>
  
