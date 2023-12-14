@@ -68,8 +68,8 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
       </td>
       <td>
-        <p>Jest</p>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="80" height="80"/>
+        <p>Express</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="80" height="80"/>
       </td>
       <td>
         <p>MongoDB</p>
