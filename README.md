@@ -54,8 +54,8 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
       </td>
       <td>
-        <p>Cypress</p>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="80" height="80"/>
+        <p>Github</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="cypress" width="80" height="80"/>
       </td>
       <td>
         <p>HTML5</p>
