@@ -35,8 +35,6 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
-- Hotel Booking **[Repo](https://github.com/mdmukhtarmohsin/rainy-scissors-3404)**
-
 <br/>
  
 <div><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmukhtarmohsin&row=2&column=7&margin-w=15&margin-h=15" alt="mdmukhtarmohsin"/></a> </div>
@@ -48,8 +46,8 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
   <tbody>
     <tr>
       <td>
-        <p>Bootstrap</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
+        <p>Tailwind</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="80" height="80"/>
       </td>
       <td>
         <p>CSS3</p>
