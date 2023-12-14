@@ -55,7 +55,7 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
       </td>
       <td>
         <p>Git</p>
-        <img src="https://icons8.com/icon/MokHDDvdQ1UK/git" alt="cypress" width="80" height="80"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="80" height="80"/>
       </td>
       <td>
         <p>HTML5</p>
